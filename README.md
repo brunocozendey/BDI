@@ -1,2 +1,2 @@
 # BDI
-Aulas de Banco de Dados I, curso de Ci^encia da Computacao UERJ
+Aulas de Banco de Dados I, curso de Ciência da computaçao UERJ
